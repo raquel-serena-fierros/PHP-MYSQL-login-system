@@ -3,8 +3,6 @@
 - Bootstrap 5 framework and components for buttons and layout. 
 - MYSQL Database server.
 - Cross-site scripting to prevent XSS attacks.
-- 
-
 <img width="790" alt="Screen Shot 2021-08-25 at 2 52 08 AM" src="https://user-images.githubusercontent.com/86587161/130744973-c07ca668-5479-476a-8a1f-98ab72e72102.png">
 <img width="674" alt="Screen Shot 2021-08-25 at 3 24 18 AM" src="https://user-images.githubusercontent.com/86587161/130745366-a6857da0-862e-4cf6-8aea-0f9967b93e90.png">
 <img width="767" alt="Screen Shot 2021-08-25 at 2 55 18 AM" src="https://user-images.githubusercontent.com/86587161/130745145-6a50be81-17a6-4fef-946d-76057144812b.png">
